@@ -1,9 +1,38 @@
 body{
      background-color: #212121;
- }
+}
+
+#name{
+font-family: 'Merriweather Sans', sans-serif;
+  letter-spacing: -.1px;
+	color: #fff; 
+	font-size: 8px;
+position:absolute;
+    bottom:5px;
+    right: 5px;
+	
+}
     
-   
-    #Xmas_Card1, #Super_Snowman1{
+
+#title{
+	    text-align: center;
+	    font-family: 'Rubik', sans-serif;
+      color: #fff;
+	font-size: 30px;
+	
+      
+
+} 
+#title:hover{
+
+	color: #d3ecff;
+ font-size: 32px;
+	transition: .5s;
+}
+    
+
+
+#Xmas_Card1, #Super_Snowman1, #Dinner1{
       font-family: 'Rubik', sans-serif;
       color: #ff9100;
       transition: .7s;
@@ -18,12 +47,20 @@ body{
       margin-top: 100px;
       font-size: 30px;
       text-decoration: none;
+	border-radius: 15px;
+	background: rgba(51, 51, 51, .1) ;
+	padding: 10px;
+      
       
     }
 #Super_Snowman1{
 	color: #00fdb5;
 }  
-    #Xmas_Card1:hover, #Super_Snowman1:hover{
+
+#Dinner1{
+	color: #00a8fd;
+}
+    #Xmas_Card1:hover, #Super_Snowman1:hover, #Dinner1:hover{
       color: white;
       border-radius: 15px;
       text-shadow: 0px 9px #123;
@@ -33,7 +70,7 @@ body{
     
       }
     
-    #Xmas_Card, #Super_Snowman{
+    #Xmas_Card, #Super_Snowman, #Dinner{
       font-family: 'Rubik', sans-serif;
       color: #ff9100;
       transition: .7s;
@@ -51,7 +88,7 @@ body{
       
     }
     
-    #Xmas_Card:hover, #Super_Snowman:hover{
+    #Xmas_Card:hover, #Super_Snowman:hover, #Dinner:hover{
       color: white;
       border-radius: 15px;
       text-shadow: 0px 9px #123;
