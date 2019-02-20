@@ -3,7 +3,7 @@ body{
  }
     
    
-    #Xmas_Card1{
+    #Xmas_Card1, #Super_Snowman1{
       font-family: 'Rubik', sans-serif;
       color: #ff9100;
       transition: .7s;
@@ -20,8 +20,10 @@ body{
       text-decoration: none;
       
     }
-    
-    #Xmas_Card1:hover{
+#Super_Snowman1{
+	color: #00fdb5;
+}  
+    #Xmas_Card1:hover, #Super_Snowman1:hover{
       color: white;
       border-radius: 15px;
       text-shadow: 0px 9px #123;
@@ -31,7 +33,7 @@ body{
     
       }
     
-    #Xmas_Card{
+    #Xmas_Card, #Super_Snowman{
       font-family: 'Rubik', sans-serif;
       color: #ff9100;
       transition: .7s;
@@ -49,7 +51,7 @@ body{
       
     }
     
-    #Xmas_Card:hover{
+    #Xmas_Card:hover, #Super_Snowman:hover{
       color: white;
       border-radius: 15px;
       text-shadow: 0px 9px #123;
