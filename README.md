@@ -2,7 +2,7 @@
 
 [![Website under development](https://i.imgur.com/i2PS9YM.jpg)](https://zayatsoff.github.io/Winter2019ICS2OTermWork/.)
 
-## [Holiday card](https://www.khanacademy.org/hour-of-code/project-holiday-card/6245568588185600)
+## [Holiday card](https://zayatsoff.github.io/Winter2019ICS2OTermWork/Holiday%20card/holiday_card.html)
 
 ## [Super snowman](https://www.khanacademy.org/hour-of-code/spin-off-of-project-super-snowman/5567474248351744)
 
