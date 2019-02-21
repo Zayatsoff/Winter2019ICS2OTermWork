@@ -1,6 +1,6 @@
 # All of my Khan Academy Projects ICS2O-2019
 
-![Website under development](http://www.anilm.com/site_under_construction.jpg)
+[![Website under development](https://i.imgur.com/i2PS9YM.jpg)](https://zayatsoff.github.io/Winter2019ICS2OTermWork/.)
 
 ## [Holiday card](https://www.khanacademy.org/hour-of-code/project-holiday-card/6245568588185600)
 
