@@ -8,7 +8,7 @@
 
 ## [What's for Dinner?](https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5015329878999040)
 
-## [Travel webpage](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/pp/project-travel-webpage)
+## [Travel webpage](https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6300496797007872)
 
 
 ###### - Lior Rozin 
