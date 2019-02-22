@@ -7,9 +7,10 @@ font-family: 'Merriweather Sans', sans-serif;
   letter-spacing: -.1px;
 	color: #fff; 
 	font-size: 12px;
-position:absolute;
+position:static;
     bottom:5px;
     right: 5px;
+	text-align: right;
 	
 }
     
@@ -32,7 +33,7 @@ position:absolute;
     
 
 
-#Xmas_Card1, #Super_Snowman1, #Dinner1{
+#Travel1,#Xmas_Card1, #Super_Snowman1, #Dinner1{
       font-family: 'Rubik', sans-serif;
       color: #ff9100;
       transition: .7s;
@@ -57,10 +58,14 @@ position:absolute;
 	color: #00fdb5;
 }  
 
+#Travel1{
+color: #d2fd00;
+}
+
 #Dinner1{
 	color: #00a8fd;
 }
-    #Xmas_Card1:hover, #Super_Snowman1:hover, #Dinner1:hover{
+    #Travel1:hover#Xmas_Card1:hover, #Super_Snowman1:hover, #Dinner1:hover{
       color: white;
       border-radius: 15px;
       text-shadow: 0px 9px #123;
@@ -70,7 +75,7 @@ position:absolute;
     
       }
     
-    #Xmas_Card, #Super_Snowman, #Dinner{
+    #Travel,#Xmas_Card, #Super_Snowman, #Dinner{
       font-family: 'Rubik', sans-serif;
       color: #ff9100;
       transition: .7s;
@@ -88,7 +93,7 @@ position:absolute;
       
     }
     
-    #Xmas_Card:hover, #Super_Snowman:hover, #Dinner:hover{
+    #Travel:hover,#Xmas_Card:hover, #Super_Snowman:hover, #Dinner:hover{
       color: white;
       border-radius: 15px;
       text-shadow: 0px 9px #123;
