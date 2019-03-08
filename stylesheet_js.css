@@ -38,7 +38,7 @@ body {
   transition: .5s;
 }
 
-#html_w1, #js_w1 {
+#Dinner1, #Super_Snowman1 {
   font-family: 'Rubik', sans-serif;
   color: #ff9100;
   transition: .7s;
@@ -57,19 +57,19 @@ body {
   padding: 10px;
 }
 
-#js_w1 {
+#Dinner1 {
   color: #00fdb5;
 }
 
-#Travel1 {
+# {
   color: #d2fd00;
 }
 
-#Dinner1 {
+# {
   color: #00a8fd;
 }
 
-#html_w1:hover, #js_w1:hover {
+#Dinner1:hover, #Super_Snowman1:hover {
   color: white;
   border-radius: 15px;
   text-shadow: 0px 9px #123;
@@ -78,7 +78,7 @@ body {
   width: 310px;
 }
 
-#html_w, #js_w {
+#Dinner, #Super_Snowman {
   font-family: 'Rubik', sans-serif;
   color: #ff9100;
   transition: .7s;
@@ -94,7 +94,7 @@ body {
   text-decoration: none;
 }
 
-#html_w:hover, #js_w:hover {
+#Dinner:hover, #Super_Snowman:hover {
   color: white;
   border-radius: 15px;
   text-shadow: 0px 9px #123;

@@ -38,7 +38,7 @@ body {
   transition: .5s;
 }
 
-#html_w1, #js_w1 {
+#Travel1, #Xmas_Card1, #recipe1, #blog1 {
   font-family: 'Rubik', sans-serif;
   color: #ff9100;
   transition: .7s;
@@ -57,19 +57,19 @@ body {
   padding: 10px;
 }
 
-#js_w1 {
+#Travel1 {
   color: #00fdb5;
 }
 
-#Travel1 {
+ #recipe1 {
   color: #d2fd00;
 }
 
-#Dinner1 {
+#blog1 {
   color: #00a8fd;
 }
 
-#html_w1:hover, #js_w1:hover {
+#Travel1:hover#Xmas_Card1:hover,  #recipe1:hover, #blog1:hover {
   color: white;
   border-radius: 15px;
   text-shadow: 0px 9px #123;
@@ -78,7 +78,7 @@ body {
   width: 310px;
 }
 
-#html_w, #js_w {
+#Travel, #Xmas_Card, #recipe, #blog {
   font-family: 'Rubik', sans-serif;
   color: #ff9100;
   transition: .7s;
@@ -94,7 +94,7 @@ body {
   text-decoration: none;
 }
 
-#html_w:hover, #js_w:hover {
+#Travel:hover, #Xmas_Card:hover, #recipe:hover, #blog:hover {
   color: white;
   border-radius: 15px;
   text-shadow: 0px 9px #123;
